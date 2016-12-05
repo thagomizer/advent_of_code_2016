@@ -48,7 +48,5 @@ class BlockNavigation
   end
 end
 
-
-
 bl = BlockNavigation.new "data.txt"
 bl.process_directions
